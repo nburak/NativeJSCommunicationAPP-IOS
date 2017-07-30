@@ -1,0 +1,5 @@
+Instructions for Setting UP!
+
+1)Make sure about cocoapods to be installed correctly!
+2)Open terminal and navigate it to project folder. Type "pod update" in terminal.
+3)Open project with "LocationApplication.xcworkspace" file.
